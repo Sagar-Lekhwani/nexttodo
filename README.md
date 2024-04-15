@@ -1,26 +1,25 @@
-Project Name
-Tdodo List Application using nextjs
+# Project Name
 
-Installation
-Clone the repository.
-Run npm install to install the necessary dependencies.
-Run npm i mongoose bcryptjs next-auth 
+Brief description of your project.
 
+## Installation
 
-Configuration
+1. Clone the repository.
+2. Run `npm install` to install the necessary dependencies.
+3. Run npm i mongoose bcryptjs next-auth 
 
-Create a .env file in the root of the folder.
-Add the following environment variables to the .env file:
+## Configuration
 
-MONGODB_URI=your_mongodb_url_here
-NEXTAUTH_SECRET=your_next_auth_secret_here
-NEXTAUTH_URL=your_next_auth_url_here
+1. Create a `.env` file in the root of the folder.
+2. Add the following environment variables to the `.env` file:
 
+  . MONGODB_URI=your_mongodb_url_here
+  . NEXTAUTH_SECRET=your_next_auth_secret_here
+  . NEXTAUTH_URL=your_next_auth_url_here
 
-
-Technologies Used
+## Technologies Used
 Nextjs Next-Auth MongoDB
 
 
-License
+## License
 Specify the license for your project.
